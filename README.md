@@ -8,4 +8,4 @@ Features of this project:
 - In featured blogs page, user can see the top 10 blogs according to its length
 - token based authentication is applied in this project
 
-Live link: https://infinite-insights-auth.web.app/
+Live link: https://tourmaline-churros-8bcbdf.netlify.app/
